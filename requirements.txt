@@ -1,0 +1,4 @@
+requests==2.18.4
+Flask==1.1.1
+flask_ask==0.9.8
+Unidecode==1.1.1
